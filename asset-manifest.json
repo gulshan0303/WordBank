@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WordBank/static/css/main.855651e4.css",
+    "main.js": "/WordBank/static/js/main.a539d997.js",
+    "index.html": "/WordBank/index.html",
+    "main.855651e4.css.map": "/WordBank/static/css/main.855651e4.css.map",
+    "main.a539d997.js.map": "/WordBank/static/js/main.a539d997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.855651e4.css",
+    "static/js/main.a539d997.js"
+  ]
+}
